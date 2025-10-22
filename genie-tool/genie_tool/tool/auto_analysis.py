@@ -161,6 +161,7 @@ def create_agent(
         model_id=model,
         api_base=base_url,
         api_key=api_key,
+        flatten_messages_as_text=True
     )
     
     return CodeAgent(
