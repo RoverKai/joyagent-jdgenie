@@ -34,3 +34,5 @@ build/
 .vscode/
 
 .flattened-pom.xml
+aliyun-settings.xml
+genie-backend_startup.log
